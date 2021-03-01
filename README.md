@@ -1,16 +1,16 @@
 ## Hey 👋, I'm [Ubisoft-potato](https://github.com/Ubisoft-potato/)
 
-![Programmer](https://raw.githubusercontent.com/Ubisoft-potato/pic/master/py.jpg)
-
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ubisoft-potato.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-1354250064mdzz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1354250064mdzz@gmail.com)](mailto:1354250064mdzz@gmail.com)
 
+![Python Programmer](https://raw.githubusercontent.com/Ubisoft-potato/pic/master/py.jpg)
 
-## ⚡ Technologies
+
+### ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
+![Golang](https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
