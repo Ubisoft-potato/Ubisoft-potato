@@ -2,6 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ubisoft-potato.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-1354250064mdzz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1354250064mdzz@gmail.com)](mailto:1354250064mdzz@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Ubisoft-potato&color=blue&label=PROFILE+VIEWS)
 
 ![Python Programmer](https://raw.githubusercontent.com/Ubisoft-potato/pic/master/py.jpg)
 
