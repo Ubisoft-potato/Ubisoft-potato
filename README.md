@@ -26,5 +26,7 @@
 
  <b>📈 Github Stats</b>
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ubisoft-potato&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubisoft-potato&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=vue,html,javascript,css&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 
