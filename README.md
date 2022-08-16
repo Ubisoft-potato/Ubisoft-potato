@@ -9,19 +9,7 @@
 
 ### ⚡ Technologies
 
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![Golang](https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+[![My Skills](https://skillicons.dev/icons?i=linux,idea,vim,vscode,go,c,cpp,py,java,md,spring,git,kubernetes,mysql,redis&perline=6)](https://skillicons.dev)
 
 
  <b>📈 Github Stats</b>
