@@ -9,7 +9,7 @@
 
 ### ⚡ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,idea,vim,vscode,go,c,cpp,py,java,md,spring,git,kubernetes,mysql,redis&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,idea,vim,vscode,go,c,cpp,py,java,md,spring,git,kubernetes,docker,mysql,redis&perline=6)](https://skillicons.dev)
 
 
  <b>📈 Github Stats</b>
