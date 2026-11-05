@@ -1,28 +1,63 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ubisoft-potato.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-1354250064mdzz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1354250064mdzz@gmail.com)](mailto:1354250064mdzz@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Ubisoft-potato&color=blue&label=PROFILE+VIEWS)
-[![codewars](https://www.codewars.com/users/Ubisoft-potato/badges/micro)](https://www.codewars.com/users/Ubisoft-potato)
-
-![Python Programmer](https://raw.githubusercontent.com/Ubisoft-potato/pic/master/py.jpg)
-
-
-### ⚡ Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=linux,idea,vim,vscode,go,rust,c,cpp,py,java,md,spring,git,kubernetes,docker,mysql,redis,kafka,githubactions&perline=6)](https://skillicons.dev)
-
-
- <b>📈 Github Stats</b>
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ubisoft-potato&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ubisoft-potato&theme=radical&hide_border=true" />
+  <img src="assets/profile-header.svg" alt="Ubisoft-potato — Hey, nice to see you. Backend, systems and experiments." width="100%" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubisoft-potato&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=vue,html,javascript,css&theme=radical" />
+  <a href="https://ubisoft-potato.github.io/">Website</a> ·
+  <a href="mailto:1354250064mdzz@gmail.com">Email</a> ·
+  <a href="https://github.com/Ubisoft-potato?tab=repositories">Repositories</a> ·
+  <a href="https://www.codewars.com/users/Ubisoft-potato">Codewars</a>
 </p>
 
+### A little about me
+
+I build across backend services, systems tooling and native apps, with a soft spot for small experiments that turn into real projects.
+
+Recently: a native macOS wallet, AI agents for security testing, and a Chinese language model trained from scratch.
+
+### Languages & tools
+
+<p>
+  <img src="assets/badges/go.svg" alt="Go" height="30" />
+  <img src="assets/badges/rust.svg" alt="Rust" height="30" />
+  <img src="assets/badges/python.svg" alt="Python" height="30" />
+  <img src="assets/badges/java.svg" alt="Java" height="30" />
+  <img src="assets/badges/swift.svg" alt="Swift" height="30" />
+  <img src="assets/badges/c.svg" alt="C" height="30" />
+  <img src="assets/badges/cpp.svg" alt="C++" height="30" />
+</p>
+
+<p>
+  <img src="assets/badges/linux.svg" alt="Linux" height="30" />
+  <img src="assets/badges/docker.svg" alt="Docker" height="30" />
+  <img src="assets/badges/kubernetes.svg" alt="Kubernetes" height="30" />
+  <img src="assets/badges/git.svg" alt="Git" height="30" />
+</p>
+
+**Backend & data** · Spring · MySQL · Redis · Kafka  
+**Workflow** · GitHub Actions · IntelliJ IDEA · Vim · VS Code · Markdown
+
+### Selected projects
+
+| Project | What I'm building | Stack |
+| :--- | :--- | :--- |
+| [**Veil Wallet**](https://github.com/Ubisoft-potato/VeilWallet) | A native macOS wallet for local keys and multichain assets. Development preview. | Swift · SwiftUI · AppKit |
+| [**ARTEX**](https://github.com/Ubisoft-potato/ARTEX) | An AI agent system for autonomous penetration testing. | Go · Next.js |
+| [**ruozhi**](https://github.com/Ubisoft-potato/ruozhi) | A small Chinese language model: pretraining, fine-tuning and chat, with a sense of humor. | Python · LLM training |
+
+[Explore more repositories →](https://github.com/Ubisoft-potato?tab=repositories)
+
+### On GitHub
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub activity, repositories and language metrics for Ubisoft-potato" width="480" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ubisoft-potato?tab=overview">Contribution activity</a> ·
+  <a href="https://github.com/Ubisoft-potato/Ubisoft-potato/actions/workflows/blank.yml">Metrics updates</a>
+</p>
+
+---
+
+<p align="center"><sub>Build things. Stay curious.</sub></p>
