@@ -15,7 +15,7 @@
 
  <b>📈 Github Stats</b>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+<img align="center" src="/github-metrics.svg?v=veilwallet-20261105" alt="Metrics" width="500">
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Ubisoft-potato&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
