@@ -32,7 +32,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: Ubisoft-potato/Ubisoft-potato
+          plugin_repositories_featured: Ubisoft-potato/VeilWallet
           commits_authoring: Ubisoft-potato, 1354250064mdzz@gmail.com
           config_timezone: Asia/Shanghai
           committer_message: "Update ${filename} - [Skip GitHub Action]"
