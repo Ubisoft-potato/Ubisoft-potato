@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ubisoft-potato/VeilWallet</span>
-                                        <span>created 12 hours ago</span>
+                                        <span>created 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native macOS multichain wallet with app-scoped Tor networking and local key storage. Development preview.</div>
@@ -1405,7 +1405,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Nov 2026, 09:44:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2026, 12:58:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
